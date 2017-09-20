@@ -30,7 +30,7 @@ var getGosling = {
             })
         }
     },
-    myGosling = [new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h1.jpg"),
+    myGosling = [new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h1.png"),
     new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h2.jpg"),
     new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h3.jpg"),
     //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h4.jpg"),
