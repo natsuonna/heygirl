@@ -30,23 +30,45 @@ var getGosling = {
             })
         }
     },
-    myGosling = [new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h1.jpg"),
-    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h2.jpg"),
-    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h3.jpg"),
-    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h4.jpg"),
+    myGosling = [new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h1.jpg"),
+    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h2.jpg"),
+    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h3.jpg"),
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h4.jpg"),
     
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v1.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v2.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v3.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v4.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v5.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v6.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v7.jpg"),
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v8.jpg"),
+    new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/co_v1.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v2.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v3.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v4.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v5.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v6.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v7.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v8.jpg"),
     
-    new Gosling("square", "http://natsuonna.github.io/heygirl/images/stripes-s1.jpg"),
-    new Gosling("square", "http://natsuonna.github.io/heygirl/images/stripes-s2.jpg"),
-    new Gosling("square", "http://natsuonna.github.io/heygirl/images/stripes-s3.jpg")
+    new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s1.jpg"),
+    new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s2.jpg"),
+    //new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s3.jpg")
+
+
+
+
+
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h1.jpg"),
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h2.jpg"),
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h3.jpg"),
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/images/stripes-h4.jpg"),
+    
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v1.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v2.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v3.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v4.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v5.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v6.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v7.jpg"),
+    //new Gosling("vertical", "http://natsuonna.github.io/heygirl/images/stripes-v8.jpg"),
+    
+    //new Gosling("square", "http://natsuonna.github.io/heygirl/images/stripes-s1.jpg"),
+    //new Gosling("square", "http://natsuonna.github.io/heygirl/images/stripes-s2.jpg"),
+    //new Gosling("square", "http://natsuonna.github.io/heygirl/images/stripes-s3.jpg")
 ];
 
 ! function(i) {
