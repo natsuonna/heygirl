@@ -32,12 +32,12 @@ function Randomize(images) {
 }
 
 var myGosling = [
-    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h1.png"),
-    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h2.jpg"),
-    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h3.jpg"),
+    new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/shadow.png"),
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h2.jpg"),
+    //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h3.jpg"),
     //new Gosling("horizontal", "http://natsuonna.github.io/heygirl/cutouts/co_h4.jpg"),
     
-    new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/co_v1.jpg"),
+    new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/shadow.png"),
     //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v2.jpg"),
     //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v3.jpg"),
     //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v4.jpg"),
@@ -46,8 +46,8 @@ var myGosling = [
     //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v7.jpg"),
     //new Gosling("vertical", "http://natsuonna.github.io/heygirl/cutouts/stripes-v8.jpg"),
     
-    new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s1.jpg"),
-    new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s2.jpg"),
+    new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/shadow.png"),
+    //new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s2.jpg"),
     //new Gosling("square", "http://natsuonna.github.io/heygirl/cutouts/co_s3.jpg")
 ]
 
